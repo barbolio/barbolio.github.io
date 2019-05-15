@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Barbara Sanders"
   avatar           : "profile.png"
-  bio              : "Pension-consultant-turned-academic interested in all things retirement related"
+  bio              : "Associate Professor"
   location         : "Burnaby, BC, Canada"
-  employer         :
+  employer         : "Simon Fraser University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/barbara-sanders-6729b41/"
+  linkedin         : "barbara-sanders-6729b41"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
